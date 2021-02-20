@@ -1,6 +1,6 @@
 {
   "homepage": "https://alfredglz.github.io/portfolio",
-  "name": "react_project",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
